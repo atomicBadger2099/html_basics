@@ -1,0 +1,25 @@
+HTML: Lists
+
+
+HTML lists may be one of two types:
+
+   unordered lists - using bullets
+   ordered lists - using numbers
+
+   unordered list example:
+
+   <ul>
+     <li>list item 1</li>
+     <li>list item 2</li>
+     <li>list item 3</li>
+     <li>list item 4</li>
+  </ul>
+
+  ordered list example:
+
+   <ol>
+     <li>list item 1</li>
+     <li>list item 2</li>
+     <li>list item 3</li>
+     <li>list item 4</li>
+  </ol>

@@ -1,0 +1,8 @@
+HTML: Links
+
+
+external link:
+
+   <a href="location.url" alt ="descriptive_name" target="_blank">click here!</a>
+
+   CSS is used typically to style links and link attributes.

@@ -1,0 +1,6 @@
+html: Images
+
+
+ <img src="image_location.html" alt ="describe_here" width="600" height="400">
+
+  In general CSS is used to display.

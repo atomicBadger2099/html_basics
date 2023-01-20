@@ -1,0 +1,29 @@
+The Basic HTML Document:
+
+HTML is the structure of a webpage.
+CSS is the style of a webpage
+Javascript is the functionality of a webpage.
+
+HTML and HTTP are the two most foundational protocols of the Internet. 
+
+structure of a HTML document:
+    - document statement
+    - html section
+    - head section
+    - body section
+
+example webpage, by structure:
+
+<!DOCTYPE html>
+
+  <html>
+
+    <head>
+      <title>title goes here</title>
+    </head>
+
+    <body>
+      content goes here
+    </body>
+
+  </html>

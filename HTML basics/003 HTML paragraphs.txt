@@ -1,0 +1,13 @@
+HTML: Paragraphs
+
+
+  <p>content goes here</p>
+
+line breaks:
+  <p>line 1 goes here.<br>Line 2 goes here.</p>
+
+making a space:
+  &nbsp;
+
+making a tab of 4 spaces:
+   &nbsp;  &nbsp; &nbsp;  &nbsp;
